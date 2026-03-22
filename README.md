@@ -66,7 +66,7 @@ cattle-health-analysis-ml/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/cattle-health-analysis-ml.git
+git clone https://github.com/Venkatakousik/cattle-health-analysis-ml.git
 cd cattle-health-analysis-ml
 ```
 
