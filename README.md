@@ -113,10 +113,4 @@ Sample datasets are provided in the `data sets/` folder.
 
 ## 👤 Author
 
-> Developed as a livestock health monitoring ML project.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+> Developed as a CSE-1 group project
